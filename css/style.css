@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+
+.hero-section{
+    background-image: url('../images/hero-banner.png');
+    background-repeat: no-repeat;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+h1 span{
+    color: orange;
+}
+
+p{
+    padding-bottom: 20px;
+}
+
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 15px 30px;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.second-section{
+    background-image: url('../images/dream-bg.png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.experience-area{
+    background-image: url('../images/exp-bg.png');
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.container{
+    max-width: 85%;
+    height: 100%;
+    margin: auto;
+}
+our-services{
+	margin:0;
+	height:320px;
+	width:100%;
+	background:#fff;
+	position:relative;
+}
+
+
+
+
+.services-2 img{
+    width: 520px;
+    height: 100px;
+}
+
+.one-third{
+	width:32%;
+	margin-left:2%;
+	float:left;
+	margin-top:70px;
+}
+.part-1{
+	background:#f1f1f1;
+	height:168px;
+	text-align: center;
+}
+.part-1 h4{
+	margin:0;
+	font-family:Oswald-Medium;
+	font-size:24px;
+	color:#353535;
+	padding-top: 50px;
+}
+.part-1 p{
+	margin:0;
+	font-family:OpenSans-Regular;
+	font-size:13px;
+	color:#555555;
+	padding:10px;
+}
+
+footer{
+    text-align: center;
+}
